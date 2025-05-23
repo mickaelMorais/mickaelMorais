@@ -4,7 +4,7 @@ My name is Mickael. I'm a web developer since 2021. I have experience with JAVAS
 
 I also have experience with MySQL databases.
 
-I am studying with the JAVA & ANGULAR also with the Tailwind CSS and SPRING libraries.
+I am studying with the C# & ANGULAR.
 
 <div aling="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mickaelMorais&theme=github_dark&show_icons=true&text_color=FFF">
