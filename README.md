@@ -20,8 +20,9 @@ I am studying with the C# & ANGULAR.
 
 ### Work Experience
 
-|:bust_in_silhouette: Web development intern         |:office: VICTOR MEDEIROS ADVOGADOS |:calendar: June 2024 - current         |
+|:bust_in_silhouette: Web development intern         |:office: VICTOR MEDEIROS ADVOGADOS |:calendar: June 2024 - CURRENT         |
 |------------------------------------------------|-----------------------------------------------|--------------------------------------|
+|:bust_in_silhouette: Development Salesforce         |:office: GFT |:calendar: Nov 2024 - Mar 2025         |
 
 
 ### Skills
